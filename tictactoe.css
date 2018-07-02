@@ -1,5 +1,6 @@
 td {
     border: 1px solid blue;
+    padding: 75px;
   }
   
   td:hover {
@@ -8,4 +9,9 @@ td {
   
   table {
     border: 1px solid green;
+    height: 500px;
+    width : 500px;
+    padding: 1px;
   }
+
+  
