@@ -1,14 +1,14 @@
 td {
-    border: 1px solid blue;
+    border: 1px solid red;
     padding: 75px;
   }
   
   td:hover {
-    background: orange;
+    background: lightskyblue;
   }
   
   table {
-    border: 1px solid green;
+    border: 1px black;
     height: 500px;
     width : 500px;
     padding: 1px;
